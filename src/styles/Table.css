@@ -1,0 +1,19 @@
+.add_user {
+  background: #d7e8ff;
+}
+
+table {
+  min-width: 400px;
+  border-collapse: collapse;
+  background: rgba(255,246,254,0.95)!important;
+}
+
+td,th {
+  border: 1px solid #ccc !important;
+  padding: 5px 10px 5px 10px !important;
+}
+
+th {
+  cursor: pointer;
+  user-select: none;
+}
